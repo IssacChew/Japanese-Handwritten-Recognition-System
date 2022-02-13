@@ -49,9 +49,9 @@ Change Password Activity<br> <br>
 <img src="Images/Change Password.png"/><br>
 
 ## Reference
-bikashthapa01. (n.d.). Bikashthapa01/FireNotes: Fully featured Android note taking app with Firebase (for SmallAcademy). GitHub. Retrieved February 13, 2022, from https://github.com/bikashthapa01/FireNotes <br>
-Build a handwritten digit classifier app with tensorflow lite  :   android developers. Android Developers. (n.d.). Retrieved February 13, 2022, from https://developer.android.com/codelabs/digit-classifier-tflite#0 <br>
-mushfiqur11. (n.d.). Mushfiqur11/BANGLAOCR-digit-recognition-with-tensorflow-lite-on-android: Bangla handwritten digit recognition application built using Android and tensorflow lite. GitHub. Retrieved February 13, 2022, from https://github.com/mushfiqur11/BanglaOCR-digit-recognition-with-TensorFlow-Lite-on-Android <br>
+bikashthapa01. (n.d.). Bikashthapa01/FireNotes: Fully featured Android note taking app with Firebase (for SmallAcademy). GitHub. Retrieved February 13, 2022, from https://github.com/bikashthapa01/FireNotes <br><br>
+Build a handwritten digit classifier app with tensorflow lite  :   android developers. Android Developers. (n.d.). Retrieved February 13, 2022, from https://developer.android.com/codelabs/digit-classifier-tflite#0 <br><br>
+mushfiqur11. (n.d.). Mushfiqur11/BANGLAOCR-digit-recognition-with-tensorflow-lite-on-android: Bangla handwritten digit recognition application built using Android and tensorflow lite. GitHub. Retrieved February 13, 2022, from https://github.com/mushfiqur11/BanglaOCR-digit-recognition-with-TensorFlow-Lite-on-Android <br><br>
 Swarna Prabha Jenal, D. R. (n.d.). A hand written digit recognition based learning Android application. PalArch's Journal of Archaeology of Egypt / Egyptology. Retrieved February 13, 2022, from https://archives.palarch.nl/index.php/jae/article/view/4119 
 
 
