@@ -20,9 +20,11 @@ Non-functional requirements:<br>
 ## System Design 
 <img src="Images/Use Case.png"/> 
 ### Use Case Diagram
+<br>
 <img src="Images/System Design.png"/> 
 ### System Design Flowchart (Model Training)
-<img src="Images/Frontend and Backend.png"/> 
+<br>
+<img src="Images/Frontend & Backend.png"/> 
 ### System Design Flowchart (Frontend & Backend)
 
 
