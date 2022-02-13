@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313796706294",
+    "project_id": "japanese-recognition-system",
+    "storage_bucket": "japanese-recognition-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313796706294:android:addd28fad4db52d3c811d7",
+        "android_client_info": {
+          "package_name": "com.example.japaneserecognitionsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313796706294-mv2ds16s48qu1js0cspml0cog0a2bnic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAlYk8elJAg0a0LxhtPS54jd8SVSzyfs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313796706294-mv2ds16s48qu1js0cspml0cog0a2bnic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

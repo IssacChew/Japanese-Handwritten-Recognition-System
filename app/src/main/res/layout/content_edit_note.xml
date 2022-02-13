@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    android:orientation="vertical"
+    tools:context=".note.EditNote"
+    tools:showIn="@layout/activity_edit_note">
+
+    <EditText
+        android:id="@+id/editNoteContent"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:gravity="start|top"
+        android:scrollbars="vertical"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <LinearLayout
+        android:id="@+id/editaltLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="0dp">
+
+        <Button
+            android:id="@+id/editNotealt1"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:tag="1"
+            android:text="" />
+
+        <Button
+            android:id="@+id/editNotealt2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:tag="2"
+            android:text="" />
+
+        <Button
+            android:id="@+id/editNotealt3"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:tag="3"
+            android:text="" />
+
+        <Button
+            android:id="@+id/editNotealt4"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:tag="4"
+            android:text="" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/editNoteButtonLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/editNoteButtonClear"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:text="@string/clear" />
+
+        <Button
+            android:id="@+id/editNoteButtonSpace"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".5"
+            android:text="@string/space" />
+
+        <Button
+            android:id="@+id/editNoteButtonBackspace"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".6"
+            android:text="@string/backspace" />
+
+        <Button
+            android:id="@+id/editNoteButtonClassify"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="@string/show"/>
+
+    </LinearLayout>
+
+    <com.example.japaneserecognitionsystem.paint.PaintView
+        android:id="@+id/editNoteWritingSurface"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>
