@@ -25,6 +25,9 @@ System Design Flowchart (Model Training)<br> <br>
 System Design Flowchart (Frontend & Backend)<br> <br>
 <img src="Images/Frontend & Backend.png"/><br> 
 
+## Interface Design
+<img src="Images/Interface Design.png"/> <br>
+
 ## User Interface
 Login Activity<br> <br>
 <img src="Images/Login.png"/> <br>
