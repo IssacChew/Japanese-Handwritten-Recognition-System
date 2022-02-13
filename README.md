@@ -30,6 +30,8 @@ Non-functional requirements:<br>
 ## User Interface
 ### Login Activity
 <img src="Images/Login.png"/> 
+### Register Activity
+<img src="Images/Register.png"/> 
 
 
 
