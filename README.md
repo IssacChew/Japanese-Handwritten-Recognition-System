@@ -18,13 +18,18 @@ Non-functional requirements:<br>
 •	The interface of the system is user friendly and easy to use and understand to attract the attention and interest of user.<br> 
 
 ## System Design 
-<img src="Images/Use Case.png"/> <br>
 ### Use Case Diagram
+<img src="Images/Use Case.png"/> 
 <br>
-<img src="Images/System Design.png"/> <br> 
 ### System Design Flowchart (Model Training)
+<img src="Images/System Design.png"/> 
 <br>
-<img src="Images/Frontend & Backend.png"/> <br> 
 ### System Design Flowchart (Frontend & Backend)
+<img src="Images/Frontend & Backend.png"/> 
+
+## User Interface
+### Login Activity
+<img src="Images/Login.png"/> 
+
 
 
