@@ -19,31 +19,31 @@ Non-functional requirements:<br>
 
 ## System Design 
 Use Case Diagram<br>
-<img src="Images/Use Case.png"/> 
+<img src="Images/Use Case.png"/> <br>
 System Design Flowchart (Model Training)<br>
-<img src="Images/System Design.png"/> 
+<img src="Images/System Design.png"/> <br>
 System Design Flowchart (Frontend & Backend)<br>
-<img src="Images/Frontend & Backend.png"/> 
+<img src="Images/Frontend & Backend.png"/><br> 
 
 ## User Interface
 Login Activity<br>
-<img src="Images/Login.png"/> 
+<img src="Images/Login.png"/> <br>
 Register Activity<br>
-<img src="Images/Register.png"/>
+<img src="Images/Register.png"/><br>
 Main Page Activity<br>
-<img src="Images/Main Page.png"/> 
+<img src="Images/Main Page.png"/> <br>
 Add Note Activity<br>
-<img src="Images/Add Note.png"/> 
+<img src="Images/Add Note.png"/> <br>
 Note Detail Activity<br>
-<img src="Images/Note Detail.png"/> 
+<img src="Images/Note Detail.png"/> <br>
 Edit Note Activity<br>
-<img src="Images/Edit Note.png"/> 
+<img src="Images/Edit Note.png"/> <br>
 Profile Activity<br>
-<img src="Images/Profile.png"/> 
+<img src="Images/Profile.png"/> <br>
 Edit Profile Activity<br>
-<img src="Images/Edit Profile.png"/> 
+<img src="Images/Edit Profile.png"/> <br>
 Change Password Activity<br>
-<img src="Images/Change Password.png"/>
+<img src="Images/Change Password.png"/><br>
 <br>
 
 ## Reference
