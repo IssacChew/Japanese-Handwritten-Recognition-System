@@ -18,20 +18,35 @@ Non-functional requirements:<br>
 •	The interface of the system is user friendly and easy to use and understand to attract the attention and interest of user.<br> 
 
 ## System Design 
-### Use Case Diagram
+Use Case Diagram<br>
 <img src="Images/Use Case.png"/> 
-..
-### System Design Flowchart (Model Training)
+System Design Flowchart (Model Training)<br>
 <img src="Images/System Design.png"/> 
-..
-### System Design Flowchart (Frontend & Backend)
+System Design Flowchart (Frontend & Backend)<br>
 <img src="Images/Frontend & Backend.png"/> 
 
 ## User Interface
-### Login Activity
+Login Activity<br>
 <img src="Images/Login.png"/> 
-### Register Activity
-<img src="Images/Register.png"/> 
+Register Activity<br>
+<img src="Images/Register.png"/>
+Main Page Activity<br>
+<img src="Images/Main Page.png"/> 
+Add Note Activity<br>
+<img src="Images/Add Note.png"/> 
+Note Detail Activity<br>
+<img src="Images/Note Detail.png"/> 
+Edit Note Activity<br>
+<img src="Images/Edit Note.png"/> 
+Profile Activity<br>
+<img src="Images/Profile.png"/> 
+Edit Profile Activity<br>
+<img src="Images/Edit Profile.png"/> 
+Change Password Activity<br>
+<img src="Images/Change Password.png"/>
+<br>
+
+## Reference
 
 
 
